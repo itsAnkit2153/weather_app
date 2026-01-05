@@ -26,6 +26,10 @@ It fetches real-time weather data using the **OpenWeatherMap API** and displays 
 
 ---
 
+## 🌐 Live Demo
+
+👉 **View Live App:**  
+https://weather-oprwcodja-ankit-vishwakarmas-projects-b0a25602.vercel.app/
 
 ---
 
@@ -42,5 +46,3 @@ It fetches real-time weather data using the **OpenWeatherMap API** and displays 
 ## 🔑 API Used
 
 - **OpenWeatherMap API**
-
-
