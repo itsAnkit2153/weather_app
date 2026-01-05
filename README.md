@@ -26,5 +26,21 @@ It fetches real-time weather data using the **OpenWeatherMap API** and displays 
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ⚙️ How It Works
+
+1. User enters a **city name**
+2. App calls the **OpenWeatherMap API**
+3. Weather data is fetched asynchronously using `fetch()`
+4. UI updates dynamically with weather details
+5. Invalid city → error message is shown
+
+---
+
+## 🔑 API Used
+
+- **OpenWeatherMap API**
+
 
